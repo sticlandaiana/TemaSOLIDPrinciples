@@ -1,5 +1,5 @@
 # TemaSOLIDPrinciples
-3.19 Sumar Homework 
+
 Homework.Java-3.1. Scrieți o clasa pentru rezolvarea ecuației de gradul I. Salvați soluția in format JSON. Faceți re-design la soluție astfel în fișierul final JSON sa se reflecte toate situațiile posibile. 
 Homework.Java-3.2. (Opțional) Re-design Homework.Java-3.1 pentru a putea fi utilizată ca un end
 point într-un REST API. 
