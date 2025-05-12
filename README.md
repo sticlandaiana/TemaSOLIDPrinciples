@@ -2,8 +2,6 @@
 
 **&nbsp;&nbsp;&nbsp;&nbsp;Homework.Java-3.1.** Scrieți o clasă pentru rezolvarea ecuației de gradul I. Salvați soluția în format JSON. Faceți re-design la soluție astfel încât în fișierul final JSON să se reflecte toate situațiile posibile.
 
-**&nbsp;&nbsp;&nbsp;&nbsp;Homework.Java-3.2.** (Opțional) Re-design Homework.Java-3.1 pentru a putea fi utilizată ca un end-point într-un REST API.
-
 **&nbsp;&nbsp;&nbsp;&nbsp;Homework.Java-3.3.** Refactor Exemplul 2.3 - Suma ariilor mai multor forme într-o metodă care calculează suma totală.
 
 **&nbsp;&nbsp;&nbsp;&nbsp;Homework.Java-3.4.** Pe baza Figure 3 (MultifunctionalPrinter), implementează o clasă pentru o imprimantă și una complet funcțională. Folosește toate metodele implementate.
